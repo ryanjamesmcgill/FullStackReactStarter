@@ -15,4 +15,4 @@ $ npm run build --- This will start a production build of the React app.
 $ npm run start --- This will start the server, defaulting to port 3000
 ```
 
-Run 'npm run start', and point a browser to `localhost:3000/` and you're up and running!
+Run `npm run start`, and point a browser to `localhost:3000/` and you're up and running!
