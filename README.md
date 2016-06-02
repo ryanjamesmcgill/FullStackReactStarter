@@ -6,7 +6,7 @@ This is a work in progress, my own boilerplate for full stack projects.
 ## Usage
 
 ```bash
-$ git clone https://github.com/ryanjamesmcgill/fullstackreactstarter.git you-project
+$ git clone https://github.com/ryanjamesmcgill/FullStackReactStarter.git you-project
 $ cd your-project
 $ npm install
 $
