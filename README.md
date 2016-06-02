@@ -10,7 +10,7 @@ $ git clone https://github.com/ryanjamesmcgill/FullStackReactStarter.git you-pro
 $ cd your-project
 $ npm install
 $
-$ npm run dev --- This will start webpack's bundling process, it will rebuild as you edit the React app
+$ npm run dev --- This will start the webpack bundling process, it will rebuild as you edit the React app
 $ npm run build --- This will start a production build of the React app.
 $ npm run start --- This will start the server, defaulting to port 3000
 ```
